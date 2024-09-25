@@ -8,7 +8,7 @@
 - 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/daniel-ramolete-01b0a718a/)
-- [Facebook](https://web.facebook.com/dadanramolete)
+- [![Facebook](https://img.shields.io/badge/Facebook-dadanramolete-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://web.facebook.com/dadanramolete)
 - [Gmail](danramolete@gmail.com)
 
 - ![Profile Views](https://komarev.com/ghpvc/?username=dadan041100)
