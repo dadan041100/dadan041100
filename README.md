@@ -17,8 +17,8 @@
 ## Connect with Me
 I’m always open to discussing new ideas, projects, or collaborations, and I am currently explanding my knowledge in the Technical Field. 
 Feel free to reach out:
-- [[LinkedIn](https://www.linkedin.com/in/daniel-ramolete-01b0a718a/)
 - [![Facebook](https://img.shields.io/badge/Facebook-dadanramolete-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://web.facebook.com/dadanramolete)
+- [LinkedIn](https://www.linkedin.com/in/daniel-ramolete-01b0a718a/)
 - [Gmail](danramolete@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dadan041100)
