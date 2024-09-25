@@ -9,7 +9,9 @@
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/daniel-ramolete-01b0a718a/)
 - [Facebook](https://web.facebook.com/dadanramolete)
-- Email: (danramolete@gmail.com)
+- [Gmail](danramolete@gmail.com)
+
+- ![Profile Views](https://komarev.com/ghpvc/?username=dadan041100)
 <!---
 dadan041100/dadan041100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
