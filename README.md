@@ -7,7 +7,7 @@
 - ⚡ Fun fact: likes to play games a lot, I self-learn most of the time.
 - 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/daniel-ramolete-01b0a718a/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-daniel-ramolete-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ramolete-01b0a718a/)
 - [![Facebook](https://img.shields.io/badge/Facebook-dadanramolete-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://web.facebook.com/dadanramolete)
 - [Gmail](danramolete@gmail.com)
 
