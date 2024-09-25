@@ -7,9 +7,9 @@
 - ⚡ Fun fact: likes to play games a lot, I self-learn most of the time.
 - 
 ## Connect with Me
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/daniel-ramolete-01b0a718a/])
-- [Facebook]([https://web.facebook.com/dadanramolete])
-- Email: [danramolete@gmail.com]
+- [LinkedIn](https://www.linkedin.com/in/daniel-ramolete-01b0a718a/)
+- [Facebook](https://web.facebook.com/dadanramolete)
+- Email: (danramolete@gmail.com)
 <!---
 dadan041100/dadan041100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
