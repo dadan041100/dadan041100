@@ -5,7 +5,9 @@
 - Pronouns: he/him
 - Fun fact: likes to play games a lot, I self-learn most of the time.
 
-### Skills
+  
+
+## Skills
 - **Programming Languages**: Python, Java, JavaScript, C++
 - **Frameworks**: Flask, Spring, React, Laravel, Django
 - **Tools & Technologies**: Git, Docker, VSCode, IntelliJ, Eclipse, Netbeans
